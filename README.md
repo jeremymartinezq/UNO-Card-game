@@ -2,7 +2,11 @@
 
 A beautiful, interactive implementation of the classic UNO card game built with HTML, CSS, and JavaScript. Play against three computer opponents in this modern web-based version of UNO!
 
-![UNO Game Screenshot](screenshot.png)
+## Design
+<img width="960" alt="Screenshot 2025-04-02 141808" src="https://github.com/user-attachments/assets/1abf382b-686c-40e7-9ca5-328e9420a125" />
+<img width="960" alt="Screenshot 2025-04-02 142022" src="https://github.com/user-attachments/assets/efda474b-a499-42be-b918-3cbf2652b682" />
+<img width="960" alt="Screenshot 2025-04-02 142038" src="https://github.com/user-attachments/assets/73de8593-be7a-496a-9562-86e081372f7b" />
+<img width="960" alt="Screenshot 2025-04-02 141947" src="https://github.com/user-attachments/assets/e3f41179-ada7-4e9c-9135-55d5c5e67f14" />
 
 ## Features
 
